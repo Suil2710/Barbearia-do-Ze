@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+}
+
+#barbearia{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+}
